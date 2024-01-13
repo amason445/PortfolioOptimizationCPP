@@ -8,3 +8,5 @@ I started work on a script that weights an investment portfolio by asset classes
 Below is a sample output for $5000:
 
 ![alt text](https://github.com/amason445/PortfolioOptimizationCPP/blob/master/InitialOutput.png)
+
+In the future, I plan to add more modules.
