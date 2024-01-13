@@ -6,4 +6,4 @@ I started work on a script that weights an investment portfolio by asset classes
 - Cash: 5%
 
 Below is a sample output for $5000:
-[!alt_text](https://github.com/amason445/PortfolioOptimizationCPP/blob/master/InitialOutput.png)
+[!alt text](https://github.com/amason445/PortfolioOptimizationCPP/blob/master/InitialOutput.png)
